@@ -1,6 +1,6 @@
 # Battleship
 Description:
-     This battleship esq games rules are the player takes turns against a computer player both sides goals are to take down all of the oppenents ship before they take all of yours. Our version requires the arduino and the use of serial mon to see the battlefield. The use of the arduino is for a minigame for the player.
+     This battleship esq games rules are the player takes turns against a computer player both sides goals are to take down all of the oppenents ship before they take all of yours. Our version is written in C++ and requires the arduino and the use of serial monitor to see the battlefield. The use of the arduino is for a minigame for the player.
 
 The arduino must be set up properly to be able to play. The point of the arduino is so the player has a minigame to play through when they attack an opponents ship location. This minigames rules are as follows, This minigame only uses the 3 right LEDs. Press and hold a lit LED's button when they turn on until the LED turns off. Each successful button press increases your score by 1. For a successful ship hit get above 5 score on Easy, above 10 on Medium or Hard. Your score will update on screen. Press leftmost fire button when ready - the leftmost green LED will stay on during the game The game lasts 10 seconds.
 
