@@ -8,7 +8,7 @@ Included Files:
     * arduinoSetup.jpg (picture of the setup)
 
 Accessories:
-  - 560 Ohm (Grn Blu Brown) resistor x 5
+  - 560 Ohm (Greenn Blue Brown) resistor x 5
   - LED (Grn) x 4
   - LED (Red) x 1
   - Arduino Mega Board (AMG)
