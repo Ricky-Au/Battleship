@@ -65,3 +65,5 @@ Sources:
   function Minigame() line 69
   https://arduino.stackexchange.com/questions/22272/how-do-i-run-a-loop-for-a-specific-amount-of-time
   user JRobert
+  
+  Game as a whole is based on the hit game Battleship by Hasbro.
